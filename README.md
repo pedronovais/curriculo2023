@@ -20,7 +20,7 @@
 ## link do projeto 
 
 🔗 [Clique aqui para acessar](https://pedronovais.github.io/curriculo2023/)
-(http://localhost:5173/)
+
 
 ## 🚀 Tecnologias
 
