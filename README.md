@@ -21,6 +21,7 @@
 
 🔗 [Clique aqui para acessar](https://pedronovais.github.io/curriculo2023/)
 
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
