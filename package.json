@@ -2,6 +2,7 @@
   "name": "react_sass",
   "private": true,
   "version": "0.0.0",
+  "homepage": "curriculo2023/",
   "type": "module",
   "scripts": {
     "dev": "vite",
